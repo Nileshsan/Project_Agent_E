@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv*/
+.Python
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.tox/
+*.coverage
+coverage.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Keras / TensorFlow models
+*.keras
+*.h5
+*.hdf5
+Nilesh_Model_Final.keras
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDEs
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Secrets and env
+.env
+.env.*
+
+# Data files
+*.csv
+*.sqlite3
